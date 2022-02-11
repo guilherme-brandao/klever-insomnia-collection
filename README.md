@@ -1,6 +1,6 @@
 # KleverChain Proxy Insomnia Collection
 
-Postman collection for [KleverChain](https://docs.klever.finance/).
+Insomnia collection for [KleverChain](https://docs.klever.finance/).
 
 ## Installation
 
